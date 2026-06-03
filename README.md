@@ -1,1 +1,3 @@
-https://github.com/mhark891-droid/solution/blob/main/cli_tracker.py
+
+## Project URL
+You can view the project here: [Project Repository](https://github.com/mhark891-droid/solution)
